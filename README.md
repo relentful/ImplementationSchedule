@@ -29,20 +29,21 @@ Post to the Denver Devs Slack channel about your experience, successes, failure 
 1. Notice when you use this technique without actively planning for it.
 1. Document your experience and share it with the Slack channel. It’s OK if you didn’t naturally incorporate this technique. Continue to intentionally use incorporate the technique until you notice yourself using it naturally.
 
+### Week of September 9th
+**Notice when you incorporate “Lock It In” into your workflow naturally**
+1. Review ‘Lock It In’ notes when you prepare for the week. IE: for me, this would be first thing Monday morning or the previous Friday afternoon. 
+1. Actively think about where and when you can utilize this technique.
+1. Notice when you use this technique without actively planning for it.
+1. Document your experience and share it with the Slack channel. It’s OK if you didn’t naturally incorporate this technique. Continue to intentionally use incorporate the technique until you notice yourself using it naturally.
 
-Week of September 9th: Notice when you incorporate “Lock It In” into your workflow naturally
-Review ‘Lock It In’ notes when you prepare for the week. IE: for me, this would be first thing Monday morning or the previous Friday afternoon. 
-Actively think about where and when you can utilize this technique.
-Notice when you use this technique without actively planning for it.
-Document your experience and share it with the Slack channel. It’s OK if you didn’t naturally incorporate this technique. Continue to intentionally use incorporate the technique until you notice yourself using it naturally.
+### Week of September 16th
+**Intentionally incorporate ‘Replace your Purpose with an Objective’ and Lock It In’ in the same meeting.**
+1. Plan to Intentionally incorporate both ‘Replace your PUrpose with an Objective’ and ‘Lock It In’ in the same interaction.
+1. The day before your meeting, formally write 1-2 SMART goals for the meeting.
+  * Reminder on SMART goals: [https://github.com/relentful/Replace-Your-Purpose-with-an-Objective](https://github.com/relentful/Replace-Your-Purpose-with-an-Objective)
+1. The day before your meeting, review your agenda and ensure to bookmark a point to utilize ‘Lock It In’
+1. Post to the Denver Devs Slack channel about your experience, successes, failure or any questions you have.
+1. Continue to intentionally utilize ‘Lock It In’ and ‘Replace your purpose with an Objective’ and notice when are naturally incorporating into your workflows.
 
-
-
-Week of September 16th: Intentionally incorporate ‘Replace your Purpose with an Objective’ and Lock It In’ in the same meeting.
-Plan to Intentionally incorporate both ‘Replace your PUrpose with an Objective’ and ‘Lock It In’ in the same interaction.
-The day before your meeting, formally write 1-2 SMART goals for the meeting.
-Reminder on SMART goals: https://github.com/relentful/Replace-Your-Purpose-with-an-Objective
-The day before your meeting, review your agenda and ensure to bookmark a point to utilize ‘Lock It In’
-Post to the Denver Devs Slack channel about your experience, successes, failure or any questions you have.
-
-** Continue to intentionally utilize ‘Lock It In’ and ‘Replace your purpose with an Objective’ and notice when are naturally incorporating into your workflows.
+### Follow Up Call and Discussion
+Wednesday, September 25th at 12:30 pm join us for a follow-up call to review the techniques and answer any questions you have. Email scott@relentful.com to be added to the invite. 
